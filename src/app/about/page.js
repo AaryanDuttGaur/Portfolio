@@ -9,6 +9,7 @@ import image2 from '@/PrivateImg/image2.png'
 import image3 from '@/PrivateImg/image3.png'
 import image4 from '@/PrivateImg/image4.png'
 import image5 from '@/PrivateImg/image5.png'
+import image6 from '@/PrivateImg/2.png'
 gsap.registerPlugin(ScrollTrigger);
 
 const AboutPage = () => {
@@ -374,7 +375,7 @@ const AboutPage = () => {
         <div className="flex-1 flex justify-center">
           <div ref={heroImageRef} className="w-[300px] aspect-square rounded-2xl overflow-hidden shadow-2xl" style={{ perspective: '1000px' }}>
             <Image
-              src="/Image/New Project.png"
+              src= {image6}
               alt="About Image"
               width={300}
               height={300}

@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-
+import image6 from '../../PrivateImg/1.png';
 gsap.registerPlugin(ScrollTrigger);
 
 const zenDots = Zen_Dots({
@@ -110,7 +110,7 @@ export default function AboutPage() {
       <div ref={imageRef} className="flex-1 flex justify-center">
         <div className="w-full min-w-[250px] max-w-[300px] md:min-w-[300px] md:max-w-[400px] aspect-square rounded-[30px] overflow-hidden flex items-center justify-center">
           <Image
-            src="/Image/New Project.png"
+            src= {image6}
             alt="Designer Photo"
             width={400}
             height={400}
