@@ -1,0 +1,17 @@
+{
+  "id": "Velora",
+  "order": 1,
+  "title": "Velora - Fashion Ecommerce Platform",
+  "category": "Web Dev",
+  "description": "A full-featured fashion ecommerce platform demonstrating complete customer journey implementation, from authentication through checkout. Built with Next.js and Django to showcase modern full-stack development capabilities.",
+  "thumbnail": "/projects/Velora/thumbnail.png",
+  "liveLink": "https://store-frontend-git-main-arushsharma2984-6404s-projects.vercel.app/",
+  "clientBrief": "This is a demonstration project created to showcase comprehensive full-stack web development skills through a real-world ecommerce application. The project requirements included implementing a complete customer flow encompassing user authentication, product browsing with dynamic filtering, individual product pages, shopping cart functionality, secure checkout process, and order management including cancellation capabilities. The platform needed to demonstrate modern UI/UX principles, responsive design, and seamless integration between frontend (next.js) and backend (backend) systems where render was used hsot backend and vercel was used for hosting frontend.",
+  "caseStudy": "I developed Velora following a structured development process to deliver a complete ecommerce solution. The project began with strategic planning, where I mapped out the user flow, defined core features, and established the technical architecture for seamless frontend-backend integration. I then created comprehensive wireframes for all key pages including the homepage, product catalog, product details, shopping cart, and checkout process. These wireframes provided a clear blueprint for the design phase, where I developed a modern visual identity with a clean aesthetic and contemporary typography suited for a fashion ecommerce platform. With the design finalized, I proceeded to backend development using Django. I built a RESTful API with robust database models for products, users, and orders, implemented secure authentication systems, and created endpoints for cart management, order processing, and cancellation functionality. After thorough testing, I deployed the backend to ensure stable API availability. I then developed the frontend using Next.js, building responsive pages with Tailwind CSS and incorporating smooth animations through GSAP to enhance user experience. The final phase involved integrating the frontend with the backend API, implementing efficient data handling, and ensuring seamless communication between client and server. The result is a fully functional ecommerce platform demonstrating my capability to build complete, production-ready web applications with modern technologies and best practices.",
+  "mockups": [
+    "/projects/Velora/mockup1.png",
+    "/projects/Velora/mockup2.png",
+    "/projects/Velora/mockup3.png"
+  ],
+  "technologies": ["Next.js", "Django", "GSAP", "Tailwind CSS"]
+}

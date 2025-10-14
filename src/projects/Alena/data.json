@@ -1,0 +1,16 @@
+{
+  "id": "alena-photography",
+  "order": 3,
+  "title": "Alena - Professional Photographer",
+  "category": "Web Dev",
+  "description": "A stunning portfolio website for professional photographer Alena, showcasing her work with elegant typography, immersive visuals, and smooth navigation designed to captivate potential clients.",
+  "thumbnail": "/projects/Alena/thumbnail.png",
+  "liveLink": "https://photography-portfolio-nzgfjp9iw-arushsharma2984-6404s-projects.vercel.app",
+  "clientBrief": "Professional photographer Alena needed a portfolio website that would showcase her photography work while reflecting her artistic vision and professional brand. The site needed to appeal to potential clients looking for portrait, fashion, and commercial photography services. Key requirements included: hero section with striking imagery, portfolio gallery with categories, about section, and contact information. The design should be clean, sophisticated, and image-focused with minimal distractions from the photography itself.",
+  "caseStudy": "I created a visually striking single-page portfolio that puts Alena's photography front and center. The hero section features a captivating portrait with bold, modern typography using a mix of white and cyan accent colors against a dark background, immediately establishing a professional yet creative tone. The navigation is clean and minimal, allowing the imagery to dominate. I chose a dark theme to make the photographs pop and create an gallery-like viewing experience. The typography hierarchy uses a futuristic sans-serif font that communicates modernity and professionalism. The result is an immersive portfolio experience that showcases Alena's photographic talent while maintaining smooth navigation and fast load times across all devices.",
+  "mockups": [
+    "/projects/Alena/mockup1.png",
+    "/projects/Alena/mockup2.png"
+  ],
+  "technologies": ["Next.js", "React", "Framer Motion", "JavaScript"]
+}

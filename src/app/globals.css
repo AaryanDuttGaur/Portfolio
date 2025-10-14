@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+
+
+body {
+  background: #191a1b;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.font-zen {
+  font-family: 'Zen Dots', sans-serif;
+}
+.montserrat {
+  font-family: 'Montserrat', sans-serif !important;
+}

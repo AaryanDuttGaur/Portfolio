@@ -1,0 +1,14 @@
+{
+  "id": "neo-cart",
+  "order": 4,
+  "title": "Neo-cart",
+  "category": "uiux",
+  "description": "Neo-cart is a modern e-commerce store for urban fashion products. The website is designed to provide users with a smooth, engaging, and stylish online shopping experience.",
+  "thumbnail": "/projects/neo-cart/thumbnail.jpg",
+  "clientBrief": "The client wanted a web-based e-commerce platform that showcases urban fashion products. The focus was on creating an intuitive browsing experience, easy product discovery, and a visually appealing interface that resonates with fashion-savvy users.",
+  "caseStudy": "I mapped the user journey — from homepage exploration and category browsing, to product details, cart management, and checkout. The visual design features a clean, contemporary aesthetic with a balanced color palette, modern typography, and attention-grabbing product highlights to enhance engagement and conversion.",
+  "mockups": [
+    "/projects/neo-cart/mockup1.png",
+    "/projects/neo-cart/mockup2.png"
+  ]
+}

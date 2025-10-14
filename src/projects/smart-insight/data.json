@@ -1,0 +1,14 @@
+{
+  "id": "smart-insight",
+  "order": 6,
+  "title": "Smart Insight",
+  "category": "uiux",
+  "description": "Smart Insight is Saas Based Application whose work is to Help People Analyse data with Their CRM and analysis Dashboards",
+  "thumbnail": "/projects/smart-insight/thumbnail.jpg",
+  "clientBrief": "Add your client brief here...",
+  "caseStudy": "Add your detailed case study here...",
+  "mockups": [
+    "/projects/smart-insight/mockup1.jpg",
+    "/projects/smart-insight/mockup2.jpg"
+  ]
+}

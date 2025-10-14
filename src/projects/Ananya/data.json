@@ -1,0 +1,15 @@
+{
+  "id": "ananya-kapoor",
+  "order": 2,
+  "title": "Ananya Kapoor - Designer Portfolio",
+  "category": "Web Dev",
+  "description": "A modern single-page portfolio with smooth GSAP animations, and minimalist black design built with React and Tailwind CSS.",
+  "thumbnail": "/projects/Ananya/thumbnail.png",
+  "clientBrief": "Independent designer Ananya Kapoor needs a striking portfolio to attract modern businesses seeking brand strategy and thoughtful design. Target audience: startups and SMBs. Required: hero section, portfolio gallery, contact information. Dark minimalist aesthetic with smooth animations. Deliverable: responsive single-page website communicating personal, purposeful, and powerful visual voice.",
+  "liveLink": "https://ananya-portfolio-hhj9375q3-arushsharma2984-6404s-projects.vercel.app ",
+  "caseStudy": "Created a single-page portfolio demonstrating design expertise through implementation. Features animated gradient orbs, GSAP ScrollTrigger effects, and custom carousel. Solved the challenge of standing out professionally while showcasing creativity. Result: immersive, fast-loading experience reflecting modern design principles with seamless mobile responsiveness.",
+  "mockups": [
+    "/projects/Ananya/mockup1.png",
+    "/projects/Ananya/mockup2.png"
+  ]
+}

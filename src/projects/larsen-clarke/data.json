@@ -1,0 +1,14 @@
+{
+  "id": "larsen-clarke",
+  "order": 5,
+  "title": "Larsen Clarke",
+  "category": "uiux",
+  "description": "This is a Portfolio Website Designed for Showcasing Project and getting leads.",
+  "thumbnail": "/projects/larsen-clarke/thumbnail.jpg",
+  "clientBrief": "The client, a creative professional, needed a clean and impactful portfolio website to showcase their work, skills, and services in a way that felt modern, minimal, and visually driven.",
+  "caseStudy": "I developed a clean, grid-based layout with strong typography and carefully balanced spacing that let the visuals stand out without distraction. The final result was a sleek portfolio site that showcased the client's work with clarity, creative integrity, and ease of use.",
+  "mockups": [
+   "/projects/larsen-clarke/mockup1.png",
+    "/projects/larsen-clarke/mockup2.png"
+  ]
+}

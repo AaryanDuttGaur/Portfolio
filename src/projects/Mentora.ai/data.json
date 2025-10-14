@@ -1,0 +1,14 @@
+{
+  "id": "mentora-ai",
+  "order": 7,
+  "title": "Mentora.ai",
+  "category": "uiux",
+  "description": "Mentora.ai is a e education platform and a mobile application which uses ai to generate better student teacher interaction with help of ai",
+  "thumbnail": "/Image/Frame 18.png",
+  "clientBrief": "The client wanted a mobile application that would offer students a personalized learning experience using AI. The app needed to deliver lecture recommendations based on user interests and academic goals.",
+  "caseStudy": "I mapped out the student journey — from onboarding and interest selection, to lecture discovery, playback, and progress tracking. For the visual design, I chose a vibrant but balanced color palette to give the app a modern, academic feel.",
+  "mockups": [
+    "/Image/Mentora.ai.jpg",
+    "/Image/Frame 2.png"
+  ]
+}
