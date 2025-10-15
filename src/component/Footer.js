@@ -3,15 +3,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 // SVG Icon Components
-const FacebookIcon = () => (
+const FiverrIcon = () => (
   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-    <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
-  </svg>
-);
-
-const TwitterIcon = () => (
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-    <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z" />
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 5.74 3.874 10.605 9.051 11.707v-8.281H6.106v-3.426h2.945V9.845c0-2.918 1.73-4.522 4.374-4.522 1.264 0 2.36.094 2.675.136v3.103h-1.837c-1.44 0-1.717.684-1.717 1.686v2.211h3.312l-.528 3.426h-2.784v8.281C20.126 22.605 24 17.74 24 12c0-6.627-5.373-12-12-12z" />
   </svg>
 );
 
@@ -42,10 +36,9 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { name: 'Facebook', href: '#', icon: FacebookIcon },
-    { name: 'Twitter', href: '#', icon: TwitterIcon },
+    { name: 'Fiverr', href: 'https://www.fiverr.com/s/WE1jQEE', icon: FiverrIcon },
+    { name: 'LinkedIn', href: 'https://www.linkedin.com/in/aaryan-dutt-gaur-17981a38a', icon: LinkedInIcon },
     { name: 'Instagram', href: '#', icon: InstagramIcon },
-    { name: 'LinkedIn', href: '#', icon: LinkedInIcon },
     { name: 'GitHub', href: '#', icon: GitHubIcon }
   ];
 
@@ -56,7 +49,6 @@ const Footer = () => {
 
           {/* Left Content Container */}
           <div className="flex flex-col gap-5 text-center md:text-left">
-            {/* Logo */}
             <div className="flex justify-center md:justify-center">
               <div className="w-10 h-10 relative">
                 <Image
@@ -69,7 +61,6 @@ const Footer = () => {
               </div>
             </div>
 
-            {/* Footer Navigation */}
             <nav className="flex flex-row flex-wrap justify-center md:justify-start gap-2 md:gap-3">
               {navigationLinks.map((link, index) => (
                 <Link
@@ -84,20 +75,19 @@ const Footer = () => {
           </div>
 
           {/* Right Content Container */}
-          {/* <div className="flex flex-col gap-5 text-center md:text-left"> */}
-            {/* Social Heading */}
-            {/* <h4 className="montserrat font-medium text-[10px] mb-2">
+          <div className="flex flex-col gap-5 text-center md:text-left">
+            <h4 className="montserrat font-medium text-[10px] mb-2">
               You can contact and follow me on
-            </h4> */}
-
-            {/* Social Media Icons  */}
-             {/* <div className="flex flex-wrap justify-center md:justify-start gap-2 md:gap-3">
+            </h4>
+            <div className="flex flex-wrap justify-center md:justify-start gap-2 md:gap-3">
               {socialLinks.map((social, index) => {
                 const IconComponent = social.icon;
                 return (
                   <Link
                     key={index}
                     href={social.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="w-12 h-12 md:w-8 md:h-8 bg-white text-red-600 rounded-full flex justify-center items-center hover:scale-110 hover:bg-red-50 hover:text-black transition-all duration-300"
                     aria-label={social.name}
                   >
@@ -105,8 +95,9 @@ const Footer = () => {
                   </Link>
                 );
               })}
-            </div> */}
-          {/* </div> */}
+            </div> 
+          </div>
+
         </div>
       </div>
     </footer>
