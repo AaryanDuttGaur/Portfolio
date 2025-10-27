@@ -38,7 +38,7 @@ const Footer = () => {
   const socialLinks = [
     { name: 'Fiverr', href: 'https://www.fiverr.com/s/WE1jQEE', icon: FiverrIcon },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/in/aaryan-dutt-gaur-17981a38a', icon: LinkedInIcon },
-    { name: 'Instagram', href: '#', icon: InstagramIcon },
+    // { name: 'Instagram', href: '#', icon: InstagramIcon },
     { name: 'GitHub', href: 'https://github.com/AaryanDuttGaur', icon: GitHubIcon }
   ];
 
