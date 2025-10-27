@@ -1,0 +1,16 @@
+{
+  "id": "Vale Studio",
+  "order": 1,
+  "title": "Vale Studio - Creative Design & Development Agency",
+  "category": "Web Dev",
+  "description": "A high-end digital studio website crafted to showcase Vale Studio’s expertise in creative design, web development, and motion experiences. The website emphasizes innovation, minimalism, and a premium digital presence through modern aesthetics and seamless user interactions.",
+  "thumbnail": "/projects/Vale Studio/2.png",
+  "liveLink": "https://vale-studio-kappa.vercel.app/",
+  "clientBrief": "Vale Studio required a portfolio website that reflects its creative authority and technical expertise. The goal was to position the studio as a premium design and development brand specializing in crafting visually rich, AI-integrated, and animation-driven web experiences. The website needed to feature a bold hero section, interactive project showcases, service breakdowns, and a dynamic contact section—all while maintaining a consistent, sleek design system.",
+  "caseStudy": "I developed a visually immersive and performance-optimized website that communicates Vale Studio’s creative and technical edge. The hero section introduces the studio with fluid motion effects powered by GSAP and Framer Motion, paired with strong typographic hierarchy and bold visual storytelling. Each project case study blends interactivity with visual depth to engage visitors. The layout balances white space with strategic animations, ensuring both clarity and visual impact. With smooth transitions, responsive layouts, and fast load speeds, the result is a premium, high-performing studio website that positions Vale Studio as a creative leader in digital innovation.",
+  "mockups": [
+    "/projects/Vale Studio/mockup1.png",
+    "/projects/Vale Studio/3.png"
+  ],
+  "technologies": ["Next.js", "React", "Tailwind CSS", "Framer Motion", "GSAP", "JavaScript"]
+}

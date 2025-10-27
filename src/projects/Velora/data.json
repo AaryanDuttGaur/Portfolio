@@ -1,6 +1,6 @@
 {
   "id": "Velora",
-  "order": 1,
+  "order": 2,
   "title": "Velora - Fashion Ecommerce Platform",
   "category": "Web Dev",
   "description": "A full-featured fashion ecommerce platform demonstrating complete customer journey implementation, from authentication through checkout. Built with Next.js and Django to showcase modern full-stack development capabilities.",
