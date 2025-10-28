@@ -88,7 +88,7 @@ export default function AboutPage() {
         </h2>
 
         <p ref={paragraphRef} className="text-sm font-['Montserrat'] text-[#ccc] mb-8 leading-[1.7]">
-          I'm Aryan, a developer and designer focused on creating impactful digital experiences.
+          I'm Aaryan, a developer and designer focused on creating impactful digital experiences.
           I specialize in modern portfolio websites that help individuals and brands showcase their work effectively.
           I also build responsive e-commerce platforms and custom web solutions tailored to business needs.
           My approach combines clean design with reliable code to deliver seamless, user-friendly products.

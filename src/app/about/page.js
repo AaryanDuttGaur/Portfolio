@@ -359,7 +359,7 @@ const AboutPage = () => {
             Discover My<br />Journey and Expertise
           </h2>
           <p ref={heroParagraphRef} className="text-sm montserrat text-gray-300 leading-relaxed mb-8">
-            I'm Aryan – a full-stack developer and UI/UX designer specializing in building modern, high-impact portfolio
+            I'm Aaryan – a full-stack developer and UI/UX designer specializing in building modern, high-impact portfolio
             websites that help individuals and brands showcase their work with clarity and style. My focus is on creating
             clean, responsive designs that highlight your story and make a lasting impression.
             <br /><br />
