@@ -25,7 +25,7 @@ const PortfolioPage = () => {
       id: 2,
       title: "Larsen Clarke",
       description: "A refined corporate website design for Larsen Clarke, focused on trust and professionalism.",
-      image: "/Image/Frame 19-min.jpg",
+      image: "/projects/larsen-clarke/thumbnail.jpg",
       link: "/portfolio"
     },
     {
