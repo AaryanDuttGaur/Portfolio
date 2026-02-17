@@ -1,0 +1,12 @@
+{
+  "id": "match-outcome-prediction",
+  "order": 12,
+  "title": " Match Outcome Prediction & Performance Dashboard",
+  "category": "Data Analytics",
+  "description": "End-to-end machine learning model to predict football match outcomes combined with a Power BI dashboard for interactive performance insights and win probability analysis.",
+  "thumbnail": "/projects/Match_Result_Prediction/Thumbnail.png",
+  "liveLink": "",
+  "clientBrief": "The objective was to develop a predictive model capable of forecasting football match outcomes using historical team performance data and statistical features. The project also required transforming model outputs into an interactive Power BI dashboard for decision-friendly visualization. The goal was to demonstrate how machine learning can support sports analytics, performance benchmarking, and predictive insights.",
+  "caseStudy": "I built an end-to-end predictive modeling pipeline using historical match data to forecast match outcomes. The workflow included data preprocessing, feature engineering, time-aware validation, and model evaluation to ensure realistic performance assessment.\n\nMultiple classification models were evaluated, and performance was measured using metrics such as accuracy, confusion matrix, and ROC-AUC. The final model achieved strong predictive performance, demonstrating the ability to capture team form, historical trends, and statistical performance indicators.\n\nTo bridge the gap between technical output and business usability, model predictions were integrated into a Power BI dashboard. The dashboard provides interactive win probability visualization, team comparison metrics, and historical trend analysis through dynamic filters.\n\nThis project highlights practical machine learning implementation, structured validation methodology, and the ability to translate predictive insights into executive-level visual reporting.",
+  "technologies": ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Power BI"]
+}

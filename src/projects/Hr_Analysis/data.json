@@ -1,0 +1,17 @@
+{
+  "id": "hr-analytics-dashboard",
+  "order": 11,
+  "title": "HR Analytics & Employee Attrition Analysis",
+  "category": "Data Analytics",
+  "description": "Data-driven analysis of workforce data to identify key drivers of employee attrition, performance trends, and HR optimization opportunities.",
+  "thumbnail": "/projects/Hr_Analytics/Thumbnail (1).png",
+  "liveLink": "",
+  "clientBrief": "The objective was to analyze employee-level HR data to uncover patterns behind workforce attrition, job satisfaction, compensation impact, and performance trends. The goal was to provide actionable insights that could help HR teams reduce turnover, improve employee engagement, and optimize talent management strategies.",
+  "caseStudy": "I conducted a comprehensive exploratory data analysis on structured HR dataset containing employee demographics, salary details, job roles, performance ratings, and attrition status.\n\nThe workflow began with data preprocessing, handling missing values, encoding categorical variables, and validating data consistency. Attrition patterns were analyzed across departments, job roles, experience levels, and compensation brackets.\n\nKey findings indicated strong correlations between attrition and factors such as overtime frequency, job satisfaction levels, years at company, and income distribution. Department-level analysis revealed areas with disproportionately high turnover rates.\n\nStatistical comparisons and visualizations were used to identify workforce stability patterns and potential risk segments. The insights generated from this analysis demonstrate how data can support strategic HR decision-making, retention planning, and workforce optimization initiatives.",
+  "mockups": [
+    "/projects/Hr_Analytics/p2.png",
+    "/projects/Hr_Analytics/p3.png",
+    "/projects/Hr_Analytics/p4.png"
+  ],
+  "technologies": ["Python", "Pandas", "NumPy", "Seaborn", "Scikit-learn"]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "car-market-analysis",
+  "order": 9,
+  "title": "Used Car Market Analysis & Price Prediction",
+  "category": "Data Analytics",
+  "description": "Comprehensive exploratory data analysis and predictive modeling on a large-scale used car dataset to uncover pricing patterns, market trends, and key value-driving features.",
+  "thumbnail": "/projects/Car_Market_Sales/Thumbnail.png",
+  "liveLink": "",
+  "clientBrief": "The objective was to analyze a large used car dataset (~548k records) to identify the primary factors influencing vehicle prices and build a predictive model capable of estimating market value. The analysis aimed to support data-driven pricing strategies for dealerships, online marketplaces, and automotive businesses. Key goals included data cleaning, feature engineering, market segmentation analysis, and model development for price prediction.",
+  "caseStudy": "I conducted a full end-to-end data analysis workflow on a large-scale used car dataset containing over 500,000 listings. The process began with extensive data cleaning, handling missing values, inconsistent formats, and outliers. Feature engineering was applied to improve model performance, including transformations on mileage, vehicle age, brand segmentation, and fuel type categorization.\n\nExploratory Data Analysis revealed strong correlations between price and factors such as vehicle age, brand positioning, transmission type, and mileage. Premium brands showed significantly slower depreciation curves compared to economy vehicles.\n\nMultiple machine learning models were tested to predict vehicle prices, including regression-based approaches. Performance was evaluated using appropriate metrics to ensure realistic generalization. The final model provided reliable price estimation capability, demonstrating how structured data pipelines can support intelligent pricing decisions in the automotive resale market.\n\nThis project demonstrates strong data wrangling capability, analytical reasoning, and practical machine learning application on large datasets.",
+  "mockups": [
+    "/projects/Car_Market_Sales/Project2P2.png",
+    "/projects/Car_Market_Sales/Project3P3.png"
+  ],
+  "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
+}

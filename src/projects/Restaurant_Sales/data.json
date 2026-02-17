@@ -1,0 +1,16 @@
+{
+  "id": "restaurant-sales-analysis",
+  "order": 10,
+  "title": "Restaurant Sales Performance Analysis",
+  "category": "Data Analytics",
+  "description": "Exploratory data analysis on restaurant transaction data to identify revenue drivers, peak sales periods, customer behavior patterns, and operational optimization opportunities.",
+  "thumbnail": "/projects/Restaurant_Sales/Thumbnail.png",
+  "liveLink": "",
+  "clientBrief": "The objective was to analyze restaurant sales data to uncover revenue trends, high-performing menu categories, peak operating hours, and customer purchasing behavior. The analysis aimed to provide actionable insights that could help optimize pricing strategies, staffing decisions, inventory planning, and promotional campaigns.",
+  "caseStudy": "I performed a structured exploratory data analysis on restaurant transaction-level sales data, focusing on revenue distribution, order frequency, time-based performance, and product category contribution.\n\nThe process began with data cleaning and preprocessing, including handling missing values, correcting inconsistent category labels, and aggregating transaction-level metrics. Time-series analysis was conducted to identify peak sales hours, daily revenue fluctuations, and seasonal patterns.\n\nMenu-level analysis revealed top-performing items contributing disproportionately to overall revenue, while low-performing items showed potential for removal or repositioning. Customer behavior patterns such as average order value and repeat purchase trends were also examined.\n\nVisual dashboards and performance summaries were generated to clearly communicate insights. This project demonstrates strong analytical reasoning, business-focused insight extraction, and practical use of Python-based data analysis tools for operational decision-making.",
+  "mockups": [
+    "/projects/Restaurant_Sales/P2.png",
+    "/projects/Restaurant_Sales/P3.png"
+  ],
+  "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"]
+}
