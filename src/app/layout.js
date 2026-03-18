@@ -30,6 +30,9 @@ const montserrat = Montserrat({
 export const metadata = {
   title: "Aaryan Dutt Gaur",
   description: "Showcasing my project in Full Stack Web Dev, UI/UX design",
+  verification: {
+    google: 'ynYjfuwceiaWHFNB5gRyirm8nFp45CtwqkkZ7pAG9i4',  // ← ADD THIS
+  }
 };
 export default function RootLayout({ children }) {
   return (
@@ -40,9 +43,7 @@ export default function RootLayout({ children }) {
           rel="stylesheet" 
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
         />
-        verification: {
-    google: 'ynYjfuwceiaWHFNB5gRyirm8nFp45CtwqkkZ7pAG9i4',  // ← ADD THIS
-  }
+        
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${zenDots.variable} ${montserrat.variable} antialiased`}
